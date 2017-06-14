@@ -1,0 +1,8 @@
+#+TITLE: dota2-autoexec --- My personal autoexec for Dota 2
+#+DATE: <2017-06-13 Tue>
+#+AUTHOR: Geoffrey T. Wark
+#+EMAIL: geoff@geoffwark.com
+
+Copy/paste =autoexec.cfg= into =.steam/steam/steamapps/common/dota\ 2\ beta/game/dota/cfg/= (or whatever the location may be for you).
+
+Launch options can be added via Steam --> Dota 2 --> right-click --> Properties --> GENERAL tab --> SET LAUNCH OPTIONS...
